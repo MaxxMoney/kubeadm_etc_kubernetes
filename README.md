@@ -1,0 +1,3 @@
+kubeadm搭建集群后自动生成的各种配置及证书文件
+
+路径/etc/kubernetes
